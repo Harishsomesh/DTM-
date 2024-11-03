@@ -1,0 +1,15 @@
+button{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(14, 12, 37);
+    color: aliceblue;
+    border-radius: 5px;
+}
+.Dropdownmenu{
+    margin-top: 20px;
+    margin-left: 1450px;
+}
+.dropdown{
+    display: flex;
+    flex-direction: column;
+}

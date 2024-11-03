@@ -1,0 +1,21 @@
+img{
+    width: 500px;
+}
+.Contact{
+    margin-top: 70px;
+}
+.contact-sub{
+    margin-right: 190px;
+}
+.contact-1{
+    display: flex;
+   
+}
+
+.contact-sub button{
+    margin-top: 20px;
+    background-color: rgb(255, 179, 0);
+    width: 130px;
+    border-radius: 30px;
+    
+}

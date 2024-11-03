@@ -1,0 +1,20 @@
+.bottom{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(1, 4, 19);
+    margin-top: 100px;
+}
+.add{
+    color: rgb(108, 108, 108);
+}
+h4{
+    color: aliceblue;
+    border: solid;
+    border-color:transparent transparent rgb(255, 179, 0) transparent ;
+}
+.bottom-1{
+    background-color: black;
+    color: rgb(92, 92, 92);
+    display: flex;
+    justify-content: space-evenly;
+}

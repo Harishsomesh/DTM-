@@ -1,0 +1,33 @@
+.doc{
+    background-color: rgb(255, 179, 0);
+    width: 400px;
+    height:150px;
+    color: black;
+    margin:auto;
+    border-radius: 12px;
+
+    
+
+}
+.doc h2{
+    text-align: center;
+}
+
+.pricing{
+    background-color:black;
+}
+.pricing-sub{
+    display: flex;
+    
+}
+
+.pricing-sub div{
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 15px;
+    margin: 30px auto;
+}
+.pricing-sub div:hover{
+    border-bottom:10px solid aqua;
+}
